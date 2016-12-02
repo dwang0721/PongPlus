@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<!-- saved from url=(0074)http://mylinux.langara.bc.ca/~bgreen/201630/1045/lecs/basic-framework.html -->
+<html lang="en" class="gr__mylinux_langara_bc_ca">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Pong</title>
+    <link href="./Pong_files/normalize.min.css" rel="stylesheet" type="text/css">
+    <!-- Other stylesheets may go here -->
+    <link href="./Pong_files/Lab1Formatted.css" rel="stylesheet" type="text/css">
+    <!-- Any citations should go here -->
+    <script src="raf.js" defer></script>
+    <script src="Pong.js" defer></script>
+	<style>
+		.center{
+		margin: auto;
+    	width: 45%;
+		}
+		.button{
+			background-color:dimgray;
+			color:white;
+			border:none;
+			font-size: 16px;
+			text-decoration: none;
+			display:inline-block;
+			text-align: center;
+			cursor:pointer;
+			border-radius: 10px;
+			padding: 5px 8px;
+			margin: 15px auto 15px auto;
+		}
+	</style>
+</head>
+
+<body data-gr-c-s-loaded="true" onload="title();">
+    <main>
+        <!-- place your HTML code within the main -->
+		<div class="center">
+            <input class="button" type="button" value="Start Game" onclick="reset();" />
+            <input class="button" type="button" value="Pause" onclick="pause();" />
+            <input class="button" type="button" value="Continue" onclick="contiueGame();" />
+            <input class="button" type="button" value="How to Play" onclick="instruction();" /> 
+		</div>
+		
+        <div class="center">
+            <canvas width="600" height="400" id="gameArea" style="border: 2.5px solid dimgray;border-radius: 8px;box-shadow: 2px 2px 5px #AAAAAA"> </canvas>
+        </div>
+		
+
+    </main>
+</body>
+
+</html>

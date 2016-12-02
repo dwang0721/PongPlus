@@ -1,0 +1,30 @@
+.answer p {
+	font-style: italic;
+}
+article > h2, article > h1 {
+	font-size: x-large;
+	border: medium solid #C93;
+	background-color: #CF6;
+}
+.question, .answer {
+	padding-left: 1em;
+}
+section {
+	background-color: lightgreen;
+}
+
+section.question::before {
+	content: "Q:";
+	font-size: x-large;
+	color: red;
+}
+
+section.answer::before {
+	content: "A:";
+	font-size: x-large;
+	color: green;
+}
+
+article {
+	margin-bottom: 4em;
+}
