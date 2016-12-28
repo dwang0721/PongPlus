@@ -604,7 +604,7 @@ let title = function () {
 
     playAudio(startAudio);
 
-    let myText = "Pong Plus beta v001: Di Wang / Prabhjit Kaur";
+    let myText = "Pong Plus beta v001: Di Wang";
     ctx.fillStyle = "grey";
     ctx.font = "10px Arial";
     ctx.fillText(myText, surface.width - myText.length * 6, surface.height - 30);
