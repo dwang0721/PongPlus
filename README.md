@@ -1,6 +1,7 @@
 # Pong+ External Document
-a game written in JS
+A game written in JS. 
 
+Play [Pong Plus](https://dwang0721.github.io/PongPlus/)
 
 
 ## Basic features:
