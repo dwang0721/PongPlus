@@ -4,7 +4,7 @@ A game written in JS.
 Play [Pong Plus](https://dwang0721.github.io/PongPlus/)
 
 
-<div style="text-align:center border: 1px solid black"><img src ="https://github.com/dwang0721/PongPlus/blob/master/title.png" /></div>
+<div style="text-align:center"><img src ="https://github.com/dwang0721/PongPlus/blob/master/title.png" /></div>
 
 ## Basic features:
 *	**Health Bars**: Each time player fails to reflect a ball, the health bar decreases in length. If the health reaches zero, the game is over.
@@ -13,7 +13,7 @@ Play [Pong Plus](https://dwang0721.github.io/PongPlus/)
 *	**The ball**: The ball will shoot from the centre with random color, size, speed and angle.
 *	**Sound**: added sound effects and music (Enjoy it!).
 
-![game title](https://github.com/dwang0721/PongPlus/blob/master/instruction.png)
+<div style="text-align:center"><img src ="ttps://github.com/dwang0721/PongPlus/blob/master/instruction.png" /></div>
 
 ## Advanced features:
 *	**Bubble Shield**: Players can consume POWs to generate a bubble shield. It reflects the balls back.
