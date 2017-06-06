@@ -18,3 +18,10 @@ Play [Pong Plus](https://dwang0721.github.io/PongPlus/)
 *	**Reflection**:  Balls will bounce back from each other.
 *	**Exchange of Momentum**: If a rainbow ball hits a normal ball, they will exchange the momentum. Meaning the normal ball will become a rainbow ball and vice versa. 
 *	**Particles**: A particle system is built in this game. If a ball hits the left or right boundary, it will explode and generate a particle cluster, like fireworks.
+
+
+### Music License:
+RoccoW_-_07_-_Fuck_Sidechain_Compression_on_Gameboy.mp3
+ロッコ by RoccoW is licensed under a Attribution-ShareAlike License. 
+Based on a work athttps://roccow.bandcamp.com/album/-
+Permissions beyond the scope of this license may be available atwww.soundcloud.com/roccowor contact artist via email.
