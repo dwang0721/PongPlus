@@ -16,5 +16,5 @@ Play [Pong Plus](https://dwang0721.github.io/PongPlus/)
 *	**Bubble Shield**: Players can consume POWs to generate a bubble shield. It reflects the balls back.
 *	**Rainbow Shoot**: Players can consume POWs to activate the paddles into rainbow mode. Any ball hits a paddle with rainbow mode will be reflected and move at a doubled speed.
 *	**Reflection**:  Balls will bounce back from each other.
-*	**xchange of Momentum**: If a rainbow ball hits a normal ball, they will exchange the momentum. Meaning the normal ball will become a rainbow ball and vice versa. 
+*	**Exchange of Momentum**: If a rainbow ball hits a normal ball, they will exchange the momentum. Meaning the normal ball will become a rainbow ball and vice versa. 
 *	**Particles**: A particle system is built in this game. If a ball hits the left or right boundary, it will explode and generate a particle cluster, like fireworks.
