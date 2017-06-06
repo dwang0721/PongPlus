@@ -13,7 +13,7 @@ Play [Pong Plus](https://dwang0721.github.io/PongPlus/)
 *	**The ball**: The ball will shoot from the centre with random color, size, speed and angle.
 *	**Sound**: added sound effects and music (Enjoy it!).
 
-<div style="text-align:center"><img src ="ttps://github.com/dwang0721/PongPlus/blob/master/instruction.png" /></div>
+<div style="text-align:center"><img src ="https://github.com/dwang0721/PongPlus/blob/master/instruction.png" /></div>
 
 ## Advanced features:
 *	**Bubble Shield**: Players can consume POWs to generate a bubble shield. It reflects the balls back.
