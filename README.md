@@ -6,9 +6,10 @@ Play [Pong Plus](https://dwang0721.github.io/PongPlus/)
 
 ## Basic features:
 *	**Health Bars**: Each time player fails to reflect a ball, the health bar decreases in length. If the health reaches zero, the game is over.
-*	**POW bars**: It allows the player to use Power Ups, such as Bubble Shields and Rainbow Shots. Each use of the Power Ups consumes a certain *	Slippery Paddles: Paddles do not stop immediately if the player stops pressing UP/Down buttons. The paddles decelerate and cushion in. This feature makes the paddles harder to control and challenges players to plan the moves ahead.
+*	**POW bars**: It allows the player to use Power Ups, such as Bubble Shields and Rainbow Shots. Each use of the Power Ups consumes a certain amount of POWs.
+*	**Slippery Paddles**: Paddles do not stop immediately if the player stops pressing UP/Down buttons. The paddles decelerate and cushion in. This feature makes the paddles harder to control and challenges players to plan the moves ahead.
 *	**The ball**: The ball will shoot from the centre with random color, size, speed and angle.
-*	**Sound**: added sound effects and tile music (Enjoy it!).
+*	**Sound**: added sound effects and music (Enjoy it!).
 
 
 ## Advanced features:
