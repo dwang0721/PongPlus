@@ -29,5 +29,5 @@ Play [Pong Plus](https://dwang0721.github.io/PongPlus/)
 ### Music License:
 RoccoW_-_07_-_Fuck_Sidechain_Compression_on_Gameboy.mp3 <br /> 
 ロッコ by RoccoW is licensed under a Attribution-ShareAlike License.<br />
-Based on a work athttps://roccow.bandcamp.com/album/-<br /> 
-Permissions beyond the scope of this license may be available atwww.soundcloud.com/roccowor contact artist via email.<br /> 
+Based on a work at https://roccow.bandcamp.com/album/-<br /> 
+Permissions beyond the scope of this license may be available at www.soundcloud.com/roccowor contact artist via email.<br /> 
